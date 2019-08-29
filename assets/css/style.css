@@ -1,0 +1,21 @@
+img {
+    border-radius: 8.2px;
+}
+h3:hover {
+    font-weight: bold;
+    color: yellow;
+}
+a:hover {
+    font-weight: bolder;
+    color: red;
+}
+#userForm {
+    text-align: center;
+}
+#show-projects {
+    margin-left: 49.7%;
+}
+#show-form:hover {
+    background-color: red;
+    font-weight: bolder;
+}
